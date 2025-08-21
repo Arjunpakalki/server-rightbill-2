@@ -1,1 +1,48 @@
-
+{
+  "details": {
+    "restaurantName": "Backwater Bites",
+    "address": "alappauzha",
+    "gstin": "32352tre452452"
+  },
+  "users": {
+    "admin@right.com": {
+      "password": "12345678",
+      "role": "admin"
+    },
+    "staff@right.com": {
+      "password": "vkskjg5m",
+      "role": "waiter"
+    }
+  },
+  "seating": {
+    "rows": [
+      [
+        "seat"
+      ],
+      [
+        "seat",
+        "seat",
+        "seat",
+        "seat",
+        "seat"
+      ],
+      [
+        "seat",
+        "seat",
+        "seat",
+        "seat",
+        "seat"
+      ],
+      [
+        "seat",
+        "seat",
+        "seat",
+        "seat",
+        "seat"
+      ]
+    ]
+  },
+  "menu": [],
+  "inventory": [],
+  "orders": []
+}
